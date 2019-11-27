@@ -3,6 +3,7 @@
 ## Sumário
 * [Canela](#canela)
 * [Caxias do Sul](#caxias-do-sul)
+* [Eldorado do Sul](#eldorado-do-sul)
 * [Horizontina](#horizontina)
 * [Novo Hamburgo](#novo-hamburgo)
 * [Porto Alegre](#porto-alegre)
@@ -15,6 +16,9 @@
 ## Caxias do Sul
 * [Focco Sistemas de Gestão](https://www.focco.com.br)
 * [Keyworks Tailormade Solutions](http://www.keyworks.com.br/)
+
+## Eldorado do Sul
+* [Dell Technologies] (http://www.dell.com)
 
 ## Novo Hamburgo
 * [Codeminer 42](http://www.codeminer42.com/)
